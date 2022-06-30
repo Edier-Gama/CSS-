@@ -15,9 +15,18 @@ html {
     text-align: center;
 }
 
-.text, p{
+p{
     text-align: justify;
     position: relative;
     width:600px;
     left: 340px;
+}
+
+span{
+    color: dodgerblue;
+}
+
+.area{
+    width: 600px;
+    height: 400px;
 }
